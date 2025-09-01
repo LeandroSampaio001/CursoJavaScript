@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-
+//criei uma unica função e coloquei tudo dentro dela
 function conclave() {
   console.log("=== Conclave Virtual ===");
 
@@ -55,4 +55,4 @@ function conclave() {
   }
 }
 
-conclave();
+conclave(); //agora chamo a função aqui
